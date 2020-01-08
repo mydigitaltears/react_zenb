@@ -1,4 +1,5 @@
 {
+  "homepage": "http://mydigitaltears.github.io/react_zenb",
   "name": "react_zenb",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "video-cache": "github:watsondg/video-cache"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

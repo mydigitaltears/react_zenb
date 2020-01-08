@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Lacquer';
+  src: local('Lacquer'), ur;(./fonts/Lacquer-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Agra Axera';
+  src: local('Agra Axera'), ur;(./fonts/Agra Axera.ttf) format('truetype');
+}
+
 * {
     box-sizing: border-box;
 }

@@ -3,15 +3,15 @@ import Music from "./components/Music"
 import Videos from "./components/Videos"
 import Shows from "./components/Shows"
 import Contacts from "./components/Contacts"
-import Vplayer from "./components/Vplayer"
+import Vplayer from "./components/Vplayer.js"
 
 function Body () {
   return (
     <>
-        <Music />
+        {/*<Music />
         <Videos />
         <Shows />
-        <Contacts />
+        <Contacts />*/}
         <Vplayer />
     </>
   )

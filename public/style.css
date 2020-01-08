@@ -93,5 +93,9 @@ footer {
 }
 
 .socials {
+  float: left;
+}
 
+.platforms {
+  float: right;
 }

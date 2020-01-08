@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_zenb/static/css/main.f1527b62.chunk.css",
+    "main.js": "/react_zenb/static/js/main.9f217bd7.chunk.js",
+    "main.js.map": "/react_zenb/static/js/main.9f217bd7.chunk.js.map",
+    "runtime-main.js": "/react_zenb/static/js/runtime-main.6e75b211.js",
+    "runtime-main.js.map": "/react_zenb/static/js/runtime-main.6e75b211.js.map",
+    "static/js/2.d180cf32.chunk.js": "/react_zenb/static/js/2.d180cf32.chunk.js",
+    "static/js/2.d180cf32.chunk.js.map": "/react_zenb/static/js/2.d180cf32.chunk.js.map",
+    "index.html": "/react_zenb/index.html",
+    "precache-manifest.464a9a3bd495236627c3e6349ad1e406.js": "/react_zenb/precache-manifest.464a9a3bd495236627c3e6349ad1e406.js",
+    "service-worker.js": "/react_zenb/service-worker.js",
+    "static/css/main.f1527b62.chunk.css.map": "/react_zenb/static/css/main.f1527b62.chunk.css.map",
+    "static/js/2.d180cf32.chunk.js.LICENSE": "/react_zenb/static/js/2.d180cf32.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e75b211.js",
+    "static/js/2.d180cf32.chunk.js",
+    "static/css/main.f1527b62.chunk.css",
+    "static/js/main.9f217bd7.chunk.js"
+  ]
+}
